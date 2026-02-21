@@ -1,4 +1,5 @@
 Global E-Commerce Sales Tracker
+
 📊 Overview
 This project is an interactive financial intelligence dashboard designed to monitor and analyze global sales performance. It transitions raw transactional data into high-level business insights, allowing stakeholders to identify growth opportunities and operational bottlenecks in real-time.
 
