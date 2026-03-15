@@ -1,22 +1,73 @@
-Global E-Commerce Sales Tracker
+# Global E-Commerce Sales Tracker
 
-📊 Overview
-This project is an interactive financial intelligence dashboard designed to monitor and analyze global sales performance. It transitions raw transactional data into high-level business insights, allowing stakeholders to identify growth opportunities and operational bottlenecks in real-time.
+An interactive business intelligence dashboard for tracking revenue, profit, orders, and regional sales performance across a multi-country e-commerce dataset.
 
-🛠️ Tech Stack
-Visualization: Power BI
+## Overview
+This project transforms transactional sales data into an executive-friendly dashboard that helps stakeholders monitor commercial performance and explore trends across regions and cities.
 
-Data Processing: Power Query (M Language)
+The goal is to move from raw sales records to clear KPI reporting and practical business insight.
 
-Calculations: DAX (Data Analysis Expressions)
+## Business Problem
+Teams often have access to raw sales data but lack a clear way to monitor:
+- revenue performance
+- profit trends
+- geographic differences
+- order activity
+- regional growth opportunities
 
-Data Source: Multi-country transactional datasets
+This project solves that by providing a dashboard built for fast decision support.
 
-💡 Key Features & KPIs
-Revenue & Profit Tracking: Real-time monitoring of total revenue ($10.668K) and profit margins ($283K).
+## Solution
+The dashboard organizes e-commerce performance into a set of easy-to-read KPIs and interactive views that help users explore sales activity by region, country, and city.
 
-Geographic Drill-Down: Interactive maps and charts allowing for performance analysis across countries like the UK, France, and Germany.
+## Tech Stack
+- Power BI
+- Power Query
+- DAX
 
-Order Intelligence: Detailed order logs with status tracking and quantity analysis (30,354+ units).
+## Key Features
+- Revenue and profit KPI tracking
+- Regional and geographic performance analysis
+- Order volume monitoring
+- Interactive filters for better exploration
+- Business-focused dashboard layout
 
-Dynamic Filtering: Ability to slice data by region (Central, North, South) and city-level performance.
+## KPI Focus
+This dashboard is designed to answer questions like:
+- Which regions are performing best?
+- Where is profitability strong or weak?
+- How do order trends vary across locations?
+- Which markets deserve more attention?
+
+## Data Preparation
+The project includes transformation and preparation steps to make the source data ready for interactive analysis.
+
+Preparation goals:
+- clean inconsistent fields
+- prepare numeric and categorical reporting dimensions
+- support DAX calculations and filtering logic
+- organize the model for dashboard use
+
+## Screenshots to Include
+- executive summary dashboard
+- regional map or breakdown view
+- KPI cards section
+- order performance table or chart
+
+## Why this project matters
+This project demonstrates:
+- commercial analytics thinking
+- dashboard design for decision-makers
+- KPI communication
+- Power BI reporting workflow
+- practical business intelligence skills
+
+## Future Improvements
+- add profit margin breakdown visuals
+- add product/category analysis
+- publish a short dashboard walkthrough
+- include a data model screenshot
+
+## Author
+Hazem Elerefy
+GitHub: https://github.com/hazemelerefey
