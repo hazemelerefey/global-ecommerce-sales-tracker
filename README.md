@@ -1,13 +1,30 @@
-# Global E-Commerce Sales Tracker
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:EC4899&height=240&section=header&text=Global%20E-Commerce%20Sales%20Tracker&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interactive%20Power%20BI%20Dashboard%20for%20Commercial%20Performance&descAlignY=58&descAlign=50" alt="banner" />
+</div>
 
-An interactive business intelligence dashboard for tracking revenue, profit, orders, and regional sales performance across a multi-country e-commerce dataset.
+<div align="center">
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827)](#)
+[![DAX](https://img.shields.io/badge/DAX-1D4ED8?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
+[![Power Query](https://img.shields.io/badge/Power_Query-0F172A?style=for-the-badge&logo=microsoft&logoColor=white)](#)
+[![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-7C3AED?style=for-the-badge&logo=googleanalytics&logoColor=white)](#)
+
+</div>
+
+> An interactive business intelligence dashboard for tracking revenue, profit, orders, and regional sales performance across a multi-country e-commerce dataset.
+
+---
 
 ## Overview
+
 This project transforms transactional sales data into an executive-friendly dashboard that helps stakeholders monitor commercial performance and explore trends across regions and cities.
 
 The goal is to move from raw sales records to clear KPI reporting and practical business insight.
 
+---
+
 ## Business Problem
+
 Teams often have access to raw sales data but lack a clear way to monitor:
 - revenue performance
 - profit trends
@@ -17,29 +34,34 @@ Teams often have access to raw sales data but lack a clear way to monitor:
 
 This project solves that by providing a dashboard built for fast decision support.
 
-## Solution
-The dashboard organizes e-commerce performance into a set of easy-to-read KPIs and interactive views that help users explore sales activity by region, country, and city.
-
-## Tech Stack
-- Power BI
-- Power Query
-- DAX
-
-## Key Features
-- Revenue and profit KPI tracking
-- Regional and geographic performance analysis
-- Order volume monitoring
-- Interactive filters for better exploration
-- Business-focused dashboard layout
+---
 
 ## KPI Focus
+
 This dashboard is designed to answer questions like:
 - Which regions are performing best?
 - Where is profitability strong or weak?
 - How do order trends vary across locations?
 - Which markets deserve more attention?
 
+```text
+Revenue + Profit + Orders + Region = faster commercial decisions
+```
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" />
+  <img src="https://img.shields.io/badge/DAX-1D4ED8?style=flat-square&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-0F172A?style=flat-square&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
 ## Data Preparation
+
 The project includes transformation and preparation steps to make the source data ready for interactive analysis.
 
 Preparation goals:
@@ -48,13 +70,20 @@ Preparation goals:
 - support DAX calculations and filtering logic
 - organize the model for dashboard use
 
-## Screenshots to Include
-- executive summary dashboard
-- regional map or breakdown view
-- KPI cards section
-- order performance table or chart
+---
 
-## Why this project matters
+## Suggested Visual Additions
+
+This README will look stronger with:
+- executive summary dashboard screenshot
+- regional map or performance view
+- KPI card section preview
+- order analysis table or chart
+
+---
+
+## Why This Project Matters
+
 This project demonstrates:
 - commercial analytics thinking
 - dashboard design for decision-makers
@@ -62,12 +91,17 @@ This project demonstrates:
 - Power BI reporting workflow
 - practical business intelligence skills
 
+---
+
 ## Future Improvements
+
 - add profit margin breakdown visuals
 - add product/category analysis
 - publish a short dashboard walkthrough
 - include a data model screenshot
 
-## Author
-Hazem Elerefy
-GitHub: https://github.com/hazemelerefey
+---
+
+<div align="center">
+  Built by Hazem Elerefy • BI + KPI Design + Commercial Analytics
+</div>
